@@ -1,2 +1,9 @@
 /.stylegan2-cache/
 __pycache__/
+*.pkl
+*.png
+*.gif
+*.zip
+*.txt
+*.dll
+*.tmp
